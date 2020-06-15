@@ -1,9 +1,10 @@
 # CancerPrediction
 NYU Tandon Artificial Intelligence Fall 2019 Project
 
-Predict cancer using KNN, ID3, Perceptron and MLP.
+Predict cancer using KNN, ID3(decision tree), Perceptron and MLP.
+
 Accuracy:
-0.9300699300699301
-0.9300699300699301
-0.9300699300699301
-0.7552447552447552
+- KNN: 0.9300699300699301
+- ID3: 0.9300699300699301
+- Perceptron: 0.9300699300699301
+- MLP: 0.7552447552447552
