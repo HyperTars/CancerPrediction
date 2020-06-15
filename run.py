@@ -1,9 +1,9 @@
-import assignment3 as models
+import predict as models
 import numpy as np
 import sys
 
 if(sys.version_info[0] < 3):
-	raise Exception("This assignment must be completed using Python 3")
+	raise Exception("This must be completed using Python 3")
 
 #==========================================================Data==========================================================
 # Number of Instances:	
